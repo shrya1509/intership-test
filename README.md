@@ -11,5 +11,6 @@ Steps:
 3) Complete path is mentioned in Program.cs file as input and output folder.
 4) To handle CSV operation a package called LinqtoCSV is used from nuget package manger.
 
+Project folder structure is in BungeeCodingRound.
 
 Note: Input file contains few junk characters in price column, so this was removed as price is used for order by operation.
